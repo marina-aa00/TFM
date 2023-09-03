@@ -69,7 +69,7 @@ The functionality of the components of the architecture is the following:
 - Azure NAT GW: it is used to provide outbound connectivity for the users of the virtual desktops.
 - Azure Firewall: it is used to control the outbound traffic users of the virtual desktops have access to. The security measures that apply to this component are:
   - Log monitoring
-- Azure Key Vault: it is used to host various sensitive data such as application secrets, encryption keys, authentication keys (Function App) and connection strings. The security measures that apply to this component are:
+- Azure Key Vault: it is used to host various sensitive data such as application secrets, passwords, encryption keys, authentication keys (Function App) and connection strings. The security measures that apply to this component are:
   - Access policies
   - Secret expiration and key rotation
   - Firewall rules
