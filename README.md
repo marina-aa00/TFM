@@ -24,7 +24,7 @@ This repository contains all the scripts used to deploy the secure cloud archite
 
 
 <p align="center">
-  <img src="https://github.com/marina-aa00/TFM/assets/97545805/a00b5200-781b-4fed-b26f-f10258361e3c" height="600" width="600"/>
+  <img src="https://github.com/marina-aa00/TFM/assets/97545805/a00b5200-781b-4fed-b26f-f10258361e3c" height="800" width="600"/>
 </p>
 
 
