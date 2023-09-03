@@ -73,5 +73,6 @@ The functionality of the components of the architecture is the following:
   - Access policies
   - Secret expiration and key rotation
   - Firewall rules
+
 Additionally, it has been incorporated to the architecture Role based access control, DDoS protection and Netwrok Security Groups (to control the communication between virtual machines)
 
