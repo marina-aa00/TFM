@@ -35,10 +35,10 @@ This repository contains all the scripts used to deploy the secure cloud archite
 
 The functionality of the components of the architecture is the following: 
 - SQL Server and Database: it is used to store the data related to the financial transactions. The security measures that apply to this component are:
-      - Data encryption
-      - Azure Key Vault integration (to have access to encryption keys)
-      - Log monitoring
-      - Private access through private endpoint
+  - Data encryption
+  - Azure Key Vault integration (to have access to encryption keys)
+  - Log monitoring
+  - Private access through private endpoint
 - App Services: they are used to host both financial transaction applications. The code used for these applications can be found at the following Github repository: . The security measures that apply to this component are:
       - Access restrictions
       - Azure AD authentication and Multifactor authentication
