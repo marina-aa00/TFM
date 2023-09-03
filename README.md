@@ -3,8 +3,9 @@
 The main proposal of the thesis is to develop a strategy to achieve cloud migration securely while optimizing the migration process. The following image shows the proposed strategy.
 
 <p align="center">
-  <img src="https://github.com/marina-aa00/TFM/assets/97545805/de4fdbb4-457f-49e0-8bd4-b7e44061b256" height="350" width="800"/>
+  <img src="https://github.com/marina-aa00/TFM/assets/97545805/d7696287-6ae1-48ff-b1c1-f6db3610b75a" height="350" width="800"/>
 </p>
+
 
 
 
