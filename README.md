@@ -3,7 +3,7 @@
 The main proposal of the thesis is to develop a strategy to achieve cloud migration securely while optimizing the migration process. The following image shows the proposed strategy.
 
 <p align="center">
-  <img src="https://github.com/marina-aa00/TFM/assets/97545805/cfd5898d-8f69-4aba-bce0-d4d3ea6da27a" height="240" width="600"/>
+  <img src="https://github.com/marina-aa00/TFM/assets/97545805/cfd5898d-8f69-4aba-bce0-d4d3ea6da27a" height="250" width="600"/>
 </p>
 
 
@@ -24,7 +24,7 @@ This repository contains all the scripts used to deploy the secure cloud archite
 
 
 <p align="center">
-  <img src="https://github.com/marina-aa00/TFM/assets/97545805/a00b5200-781b-4fed-b26f-f10258361e3c" height="240" width="600"/>
+  <img src="https://github.com/marina-aa00/TFM/assets/97545805/a00b5200-781b-4fed-b26f-f10258361e3c" height="600" width="600"/>
 </p>
 
 
